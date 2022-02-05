@@ -1,1 +1,1 @@
-# Practical-Object-Oriented-Design-in-Ruby.
+# オブジェクト指向設計実践ガイドの自分用メモ
